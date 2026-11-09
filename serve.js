@@ -42,5 +42,5 @@ const server = http.createServer(function (req, res) {
 });
 
 server.listen(port, "127.0.0.1", function () {
-  console.log("Zee Studio Official is running at http://127.0.0.1:" + port);
+  console.log("Contact Zee Studio Official is running at http://127.0.0.1:" + port);
 });

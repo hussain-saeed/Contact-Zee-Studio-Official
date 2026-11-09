@@ -175,6 +175,16 @@ h1 {
   letter-spacing: 0.02em;
 }
 
+h1 .prefix {
+  display: block;
+  margin-bottom: 0.22em;
+  font-size: 0.38em;
+  font-weight: 400;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
 h1 em {
   font-style: normal;
   font-weight: 400;
